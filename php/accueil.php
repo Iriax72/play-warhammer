@@ -1,6 +1,6 @@
 <?php
 require './elements/head.php';
-create_head('accueil');
+echo create_head('accueil');
 ?>
 <body class="flex in-center">
     <p>Connectez vous pour acceder à toutes les fonctionalités</p>
